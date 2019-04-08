@@ -1,2 +1,6 @@
 # hello-world
-sentiment analysis code for my project 'twitter sentiment analysis using r'.
+
+hello humans!
+
+sentiment analysis code for my project,.
+i am using r langauge for sentiment analysis from twitter.
